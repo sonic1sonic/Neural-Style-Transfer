@@ -10,6 +10,6 @@ During the transfer, you'll probably get a HORRIBLY LARGE loss. I'm still workin
 
 Here are some results...
 
-![tuebingen neckarfront](images/tuebingen_neckarfront_512x384.png) ![tuebingen neckarfront with Monet style](images/tuebingen_neckarfront_monet.png) ![tuebingen neckarfront with van Gogh style](images/tuebingen_neckarfront_van_gogh.png) ![tuebingen neckarfront with Picasso style](images/tuebingen_neckarfront_picasso.png)
+![tuebingen neckarfront](thumbnails/tuebingen_neckarfront.png) ![tuebingen neckarfront with Monet style](thumbnails/tuebingen_neckarfront_monet.png) ![tuebingen neckarfront with van Gogh style](thumbnails/tuebingen_neckarfront_van_gogh.png) ![tuebingen neckarfront with Picasso style](thumbnails/tuebingen_neckarfront_picasso.png)
 
 The content image [Tübingen, Germany: Neckarfront](https://commons.wikimedia.org/wiki/File:Tuebingen_Neckarfront.jpg) is photographed by [Andreas Praefcke](https://commons.wikimedia.org/wiki/User:AndreasPraefcke), licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en) license.
